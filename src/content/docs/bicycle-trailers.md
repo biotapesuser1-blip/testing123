@@ -1,5 +1,5 @@
 ---
-# Title: Bicycle Trailers
+title: Bicycle Trailers
 sidebar: { order: 1 }
 ---
 
