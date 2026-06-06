@@ -1,6 +1,7 @@
 ---
 title: Welcome
 description: Your new docs site.
+sidebar: { order: 1 }
 ---
 
 This is your new docs site. Open the [MD Docs editor](https://mddocs-site.redbeach-67793768.westus3.azurecontainerapps.io) and ask the AI to make changes — they'll show up here after you publish.
